@@ -10,4 +10,4 @@ COPY . .
 
 EXPOSE 4000
 
-CMD [ "nopm", "run", "dev" ]
+CMD [ "npm", "run", "dev" ]
